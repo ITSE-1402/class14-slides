@@ -10,7 +10,7 @@ revealOptions:
 ### ITSE-1402 Intermediate Python
 <span style="font-family:Helvetica Neue; font-weight:bold; color:#e49436">Class 14: Cloud Services and Your Code / Getting a Job As a Programmer</span>
 <br /><br />
-##### [https://z3r0.tech/slides-14](https://z3r0.tech/slides-14)
+##### [https://bit.ly/1402-class14](https://bit.ly/1402-class14)
 
 -----
 
@@ -129,6 +129,17 @@ https://youtu.be/SrwxAScdyT0
 To get started with the AWS EB CLI, install it here:
 
 http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install.html
+
+-----
+
+Django on Elastic Beanstalk:
+
+[https://bit.ly/djangoeb](http://bit.ly/djangoeb)
+
+
+Django with Zappa on AWS Lambda:
+
+[http://bit.ly/djangolambda](http://bit.ly/djangolambda)
 
 -----
 
